@@ -1,0 +1,14 @@
+Git config --global user.name "nome"
+Git config --global user.email "email" 
+Git init = inicializa um repositório em um diretório existente
+Git add [arquivo] - para monitorar um novo arquivo
+Git add . = para monitorar todos os arquivos no diretório
+Git status = determina os estados dos arquivos
+Git commit -m "mensagem" = armazena o conteúdo atual do índice em um novo commit, junto com uma mensagem que descreve as mudanças 
+Git push =  transfere commits a partir do seu repositório local para um repositório remoto
+Git clone [url] = clona repositório remoto para local
+Git pull = incorpora as alterações de um repositório remoto no branch atual
+
+
+cd - change dir
+mkdir - make new dir
